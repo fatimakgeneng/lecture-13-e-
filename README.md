@@ -11,4 +11,5 @@ Class `ExcelKnowledgeSource` for excel sheets.
 Class `JSONKnowledgeSource` for json files.
 
 ## for starter code refer crewai docs at: https://docs.crewai.com/concepts/knowledge
+Ensure to install `uv add google-generativeai` before running the code
 
